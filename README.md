@@ -1,5 +1,4 @@
 # Data Analytics Portfolio – Narmina
-# Data Analytics Portfolio
 
 This repository contains several projects demonstrating practical skills in data analysis using Power BI, SQL, and Python.
 
