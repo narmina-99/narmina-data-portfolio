@@ -13,6 +13,9 @@ The projects focus on data exploration, visualization, and analytical queries ap
 ## Repository Structure
 
 ### 📊Power BI Dashboard
+
+Marketing dashboard showing budget distribution and promotion channel effectiveness across cities.
+
 ![Marketing Dashboard](powerbi-dashboard/dashboard_overview.png)
 Analysis of marketing budget distribution and promotion channel effectiveness across different cities.
 
@@ -21,7 +24,7 @@ Files included:
 - report.pdf – exported Power BI report
 
 ### 🗄SQL Analysis
-Collection of SQL scripts demonstrating database querying and analytical techniques.
+Collection of SQL scripts demonstrating data extraction, joins, aggregations, subqueries and window functions in PostgreSQL.
 
 Topics covered:
 - data selection and filtering
