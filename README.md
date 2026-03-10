@@ -12,7 +12,7 @@ The projects focus on data exploration, visualization, and analytical queries ap
 
 ## Repository Structure
 
-### 📊Power BI Dashboard
+### Power BI Dashboard
 
 Marketing dashboard showing budget distribution and promotion channel effectiveness across cities.
 
@@ -23,7 +23,7 @@ Files included:
 - dashboard_overview.png – screenshot of the main dashboard
 - report.pdf – exported Power BI report
 
-### 🗄SQL Analysis
+### SQL Analysis
 Collection of SQL scripts demonstrating data extraction, joins, aggregations, subqueries and window functions in PostgreSQL.
 
 Topics covered:
@@ -32,7 +32,7 @@ Topics covered:
 - subqueries
 - window functions
 
-### 🐍Python Analysis
+### Python Analysis
 Data cleaning and exploratory data analysis using Python.
 
 The notebook demonstrates:
